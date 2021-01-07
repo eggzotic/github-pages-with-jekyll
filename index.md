@@ -1,3 +1,3 @@
-# Welcome to my blog
+# First steps with GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+I'm learning to use GitHub Pages. This content is entirely contrived. What else did you expect?
